@@ -20,16 +20,6 @@
       <type>iar</type>
     </dependency>
   </dependencies>
-  <repositories>
-    <repository>
-      <id>nexus.axonivy.com</id>
-      <url>https://nexus.axonivy.com</url>
-    </repository>
-    <repository>
-      <id>maven.axonivy.com</id>
-      <url>https://maven.axonivy.com</url>
-    </repository>
-  </repositories>
   <build>
     <plugins>
       <plugin>
